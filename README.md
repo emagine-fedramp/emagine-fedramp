@@ -2,7 +2,7 @@
 
 Emagine IT (EIT) provides compliance advisory services that help Cloud Service Providers, system owners, and other organizations plan, scope, and prepare for FedRAMP, as well as related federal and industry security certifications and authorizations. EIT's advisory team supports clients from strategic roadmap planning, initial gap assessment, and readiness planning through full implementation guidance, working across FedRAMP Rev5 and 20x (Classes A-D), CMMC, DoD RMF, HIPAA, FISMA, ISO, SOC 2, and maritime (IMO / U.S. Coast Guard NVIC) cybersecurity compliance frameworks.
 
-EIT is accredited as both a [FedRAMP Recognized Independent Assessment Service (IAS)](https://www.fedramp.gov/marketplace/assessors/137046/) and a CMMC Certified Third-Party Assessment Organization (C3PAO). While EIT never assesses a system it advises on, EIT's advisors are actively assessing systems against these frameworks right now. This isn't self-taught expertise, it's what EIT does every day.
+EIT is accredited as both a [FedRAMP Recognized Independent Assessment Service (IAS)](https://www.fedramp.gov/marketplace/assessors/137046/) and a [CMMC Certified Third-Party Assessment Organization (C3PAO)](https://cyberab.org/Member/C3PAO-10340-Emagine-It). While EIT never assesses a system it advises on, EIT's advisors are actively assessing systems against these frameworks right now. This isn't self-taught expertise, it's what EIT does every day.
 
 ### Services Offered
 
